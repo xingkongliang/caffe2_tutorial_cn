@@ -8,26 +8,16 @@
 Github 加载 .ipynb 的速度较慢，建议在 [Nbviewer](http://nbviewer.ipython.org/github/xingkongliang/) 中查看该项目。
 
 ## 简介
-大部分内容来自keras项目中的[examples](https://github.com/fchollet/keras/tree/master/examples)
+caffe2简单教程
 
 ## 目录
 
-- [01.](01.mnist_mpl.ipynb)
-- [02.](02.save_model.ipynb)
-- [03.](03.load_model.ipynb)
-- [04.绘制精度和损失曲线](04.plot_acc_loss.ipynb)
-- [05.卷积神经网络实现](05.mnist_cnn.ipynb)
-- [06.CIFAR10_cnn](06.cifar10_cnn.ipynb)
-- [07.mnist_lstm](07.mnist_lstm.ipynb)
-- [08.VGG16调用](08.vgg-16.ipynb)
-- [09.卷积滤波器可视化](09.conv_filter_visualization.ipynb)
-- [10.variational_autoencoder](10.variational_autoencoder.ipynb)
-- [11.锁定层fine-tuning网络](11.mnist_transfer_cnn.ipynb)
-- [12.使用sklearn wrapper进行的参数搜索](12.mnist_sklearn_wrapper.ipynb)
-- [13.Keras和Tensorflow联合使用](13.Keras_with_tensorflow.ipynb)
-- [14.Finetune InceptionV3样例](14.finetune_InceptionV3.ipynb)
-- [15.自编码器](15.autoencoder.ipynb)
-- [16.卷积自编码器](16.Convolutional_autoencoder.ipynb)
+- [01.基本概念-Workspace](01.Basics-Workspaces.ipynb)
+- [02.基本概念-Operators](02.Basics-Op.ipynb)
+- [03.基本概念-Net](03.Basics-Net.ipynb)
+- [04.图像预处理](04.Image_Pre-Processing_Pipeline.ipynb)
+- [05.加载预训练模型](05.Loading_Pretrained_Models.ipynb)
+
 
 
 
