@@ -5,7 +5,7 @@
 
 > 邮箱：zhangtianliang17@mails.ucas.ac.cn
 
-Github 加载 .ipynb 的速度较慢，建议在 [Nbviewer](http://nbviewer.ipython.org/github/xingkongliang/) 中查看该项目。
+Github 加载 .ipynb 的速度较慢，建议在 [Nbviewer](https://nbviewer.jupyter.org/github/xingkongliang/caffe2_tutorials_cn) 中查看该项目。
 
 ## 简介
 caffe2简单教程
