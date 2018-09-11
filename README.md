@@ -18,6 +18,7 @@ caffe2简单教程
 - [04.图像预处理](04.Image_Pre-Processing_Pipeline.ipynb)
 - [05.加载预训练模型](05.Loading_Pretrained_Models.ipynb)
 - [06.MNIST](06.MNIST.ipynb)
+- [07.一个回归的例子](07.Toy_Regression.ipynb)
 
 
 
